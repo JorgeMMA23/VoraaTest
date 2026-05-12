@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "62713136295",
+    "project_id": "animehub-fc198",
+    "storage_bucket": "animehub-fc198.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62713136295:android:32494a2c38426229884782",
+        "android_client_info": {
+          "package_name": "com.nexora.animeHub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62713136295-pe4fofb1l3gks6ucg6877a8qdunnb5hk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nexora.animeHub",
+            "certificate_hash": "c090a1e110f40f5477a8365a809da640cea4b295"
+          }
+        },
+        {
+          "client_id": "62713136295-46bel3sdtjdttf38992475iti9srd12p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTA2HiK_VJN8YBBOklgBbNIVmhui203mw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62713136295-46bel3sdtjdttf38992475iti9srd12p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "62713136295-61esvqir76puuelpol3s2h214fhb0ju1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.restApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
